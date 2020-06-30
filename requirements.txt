@@ -4,9 +4,6 @@ pandas
 keras
 tensorflow==2.2.0
 nltk
-pickle
-tensorflow-gpu
-tensorboard
 string
 Click==7.0
 Flask==1.1.1
