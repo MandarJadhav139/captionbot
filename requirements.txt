@@ -1,5 +1,6 @@
 Pillow==7.0.0
 numpy
+gunicorn
 pandas
 keras
 nltk
