@@ -4,7 +4,6 @@ pandas
 keras
 tensorflow==2.2.0
 nltk
-string
 Click==7.0
 Flask==1.1.1
 gunicorn==20.0.4
