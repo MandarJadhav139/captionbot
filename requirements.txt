@@ -2,7 +2,6 @@ Pillow==7.0.0
 numpy
 pandas
 keras
-tensorflow==2.2.0
 nltk
 Click==7.0
 Flask==1.1.1
