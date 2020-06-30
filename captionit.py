@@ -1,5 +1,5 @@
 from numpy import array
-from PIL import Image #used to load and create images
+from Pillow import Image #used to load and create images
 import numpy as np
 import pickle  #pickle is used to serialize the data
 import pandas as pd
